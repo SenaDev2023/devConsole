@@ -15,7 +15,7 @@ A Qt6 desktop application with:
 ## Quick Start
 
 # Clone
-git clone https://github.com/youruser/vulturelabs.git
+git clone https://github.com/SenaDev2023/vulturelabs.git
 cd vulturelabs/qtui
 
 # Build (example with MSYS2/mingw64)
@@ -31,4 +31,5 @@ Logs
 Application events are written in data/opslog.ndjson
 =================================
 {"ts":"2025-08-16 21:22:01","category":"Security","detail":"Make Authentication token for GPT for Azure DevOps Stories"}
+
 
