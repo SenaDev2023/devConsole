@@ -1,6 +1,6 @@
 /**************************************************************
   SENA FAMILY FOUNDATION, LLC
-  Vulture Labs Ops Console — Vintage ANSI (CIA-style) Terminal
+   Ops Console — Vintage ANSI  Terminal
   Storage: ..\data\opslog.ndjson (append-only NDJSON)
   Build:   g++ -std=c++17 vulture_labs.cpp -o vulture_labs.exe
 ***************************************************************/
@@ -284,3 +284,4 @@ int main() {
   }
   return 0;
 }
+
